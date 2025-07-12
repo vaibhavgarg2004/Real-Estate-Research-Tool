@@ -1,4 +1,4 @@
-# Real Estate Research Tool
+# 🏘️ Real Estate Research Tool
 
 A user-friendly web application developed using Streamlit that enables fast and insightful real estate research. Users can enter news article URLs and ask questions to receive answers grounded in the actual content using RAG (Retrieval-Augmented Generation). Though focused on real estate, this tool can be extended to any domain with textual sources.
 
