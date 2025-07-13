@@ -5,7 +5,7 @@ A user-friendly web application developed using Streamlit that enables fast and 
 ---
 
 ## 🎥 Presentation
-Watch the full project presentation here: **[Real Estate Research Tool Presentation](https://vaibhav-projects.my.canva.site/credit-risk-evaluator)**
+Watch the full project presentation here: **[Real Estate Research Tool Presentation](https://vaibhav-projects.my.canva.site/real-estate-research-tool)**
 
 ---
 
