@@ -51,7 +51,7 @@ Real_Estate_Research_Tool/
    ```commandline
     pip install -r requirements.txt
    ```
-3. **Set up your environment variables**:
+3. **Add GROQ credentials in a .env file**:
     ```text
     GROQ_API_KEY=GROQ_API_KEY_HERE
    ```
