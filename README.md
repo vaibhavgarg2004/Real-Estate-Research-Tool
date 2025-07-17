@@ -5,7 +5,7 @@ A user-friendly web application developed using Streamlit that enables fast and 
 ---
 
 ## 🌐 Live Website
-You can try the tool live here: **[Real-Estate-Research-Tool](https://vaibhav-project-real-estate-research-tool.streamlit.app/)**
+You can try the tool live here: **[Real Estate Research Tool](https://vaibhav-project-real-estate-research-tool.streamlit.app/)**
 
 ---
 
