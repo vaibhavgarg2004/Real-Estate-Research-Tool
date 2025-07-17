@@ -17,7 +17,6 @@ from langchain.chains import RetrievalQAWithSourcesChain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
-from langchain_ollama import ChatOllama
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
 load_dotenv()
@@ -37,7 +36,6 @@ def initialize_components():
 
     if llm is None:
         llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.9, max_tokens=500)
-        # llm = ChatOllama(model="llama3.2:1b",temperature=0.9, num_predict=500)
 
     if vector_store is None:
         ef = HuggingFaceEmbeddings(
